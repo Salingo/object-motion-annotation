@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MotionGen", "MotionGen.vcxproj", "{734CBCB9-32CA-415C-9387-E94F54E667C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734CBCB9-32CA-415C-9387-E94F54E667C9}.Debug|x64.ActiveCfg = Debug|x64
+		{734CBCB9-32CA-415C-9387-E94F54E667C9}.Debug|x64.Build.0 = Debug|x64
+		{734CBCB9-32CA-415C-9387-E94F54E667C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{734CBCB9-32CA-415C-9387-E94F54E667C9}.Debug|x86.Build.0 = Debug|Win32
+		{734CBCB9-32CA-415C-9387-E94F54E667C9}.Release|x64.ActiveCfg = Release|x64
+		{734CBCB9-32CA-415C-9387-E94F54E667C9}.Release|x64.Build.0 = Release|x64
+		{734CBCB9-32CA-415C-9387-E94F54E667C9}.Release|x86.ActiveCfg = Release|Win32
+		{734CBCB9-32CA-415C-9387-E94F54E667C9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC540506-889D-4D7C-B0BD-A2979CE66427}
+	EndGlobalSection
+EndGlobal
